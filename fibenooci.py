@@ -4,7 +4,7 @@ p=input("enter the number")
 
 def febennoci():
     for i in range(0,p):
-        print(k)
+        print k,
         f = k+d
         k=d
         d=f
